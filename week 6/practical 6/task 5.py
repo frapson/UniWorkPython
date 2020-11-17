@@ -40,4 +40,3 @@ print(TeamName + "\n" +
       "Losses  " + str(loss(results)) + "\n" +
       "Draws   " + str(draw(results)) + "\n" +
       "Points: " + str(point(win(results), draw(results))))
-
